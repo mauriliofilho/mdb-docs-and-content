@@ -1,0 +1,27 @@
+repo_name: mauriliofilho/mdb-docs-and-content
+report_id: fcea065ac6c9383bbbadb7e43c96ae12
+repo_type: Public
+timestamp: '2023-11-30T15:50:43+00:00'
+requested_by: pglejzer
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: cn/angular/web/docs/advanced/accordion/a-ss.html
+  last_updated_by: Dawid
+  last_updated_on: 2019-06-13 08:41:29.000000000 Z
